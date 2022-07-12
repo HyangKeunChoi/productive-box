@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/hyangkeunchoi/203b3337f4ec1b23da9668c5b4c9ffd4
+          GIST_ID: https://gist.github.com/HyangKeunChoi/203b3337f4ec1b23da9668c5b4c9ffd4
           TIMEZONE: Asia/Seoul
